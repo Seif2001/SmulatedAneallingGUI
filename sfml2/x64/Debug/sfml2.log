@@ -1,0 +1,102 @@
+﻿  main.cpp
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\simulatedAnealling.hpp(21,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\simulatedAnealling.hpp(350,11): warning C4305: 'initializing': truncation from '__int64' to 'int'
+  (compiling source file 'main.cpp')
+  
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\simulatedAnealling.hpp(350,13): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'main.cpp')
+  
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\simulatedAnealling.hpp(370,9): warning C4101: 'swapx1': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\simulatedAnealling.hpp(370,25): warning C4101: 'swapy1': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\simulatedAnealling.hpp(370,33): warning C4101: 'swapy2': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\simulatedAnealling.hpp(370,17): warning C4101: 'swapx2': unreferenced local variable
+  (compiling source file 'main.cpp')
+  
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\simulatedAnealling.hpp(416,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(22,29): warning C4244: '*=': conversion from 'const _Ty' to 'int', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(22,29): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(22,29): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(22,29): warning C4244:             _Ty=double
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(22,29): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,70): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,70): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,70): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,70): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,70): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,58): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,58): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,58): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(58,58): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,107): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,107): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,107): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,107): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,107): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,85): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,85): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,85): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(65,85): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(83,80): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,68): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,68): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,68): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,68): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,58): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,58): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,58): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(92,58): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(93,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(93,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(118,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(131,42): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(140,54): warning C4244: 'argument': conversion from 'double' to 'sf::Int32', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,70): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,70): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,70): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,70): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,70): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,58): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,58): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,58): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(145,58): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,107): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,107): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,107): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,107): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,107): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,85): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,85): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,85): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,85): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(152,85): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(170,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,68): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,68): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,68): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,68): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,68): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,58): warning C4244:         with
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,58): warning C4244:         [
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,58): warning C4244:             T=float
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(176,58): warning C4244:         ]
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(177,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(177,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(202,23): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\elsha\Desktop\IC\sfml2\sfml2\main.cpp(215,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  sfml2.vcxproj -> C:\Users\elsha\Desktop\IC\sfml2\x64\Debug\sfml2.exe
