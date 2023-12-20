@@ -27,14 +27,3 @@ This repository contains a C++ project that utilizes simulated annealing in the 
 ## Contributing
 
 Contributions are welcome! If you find any issues or have ideas for improvement, please open an issue or create a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-## Contact
-
-For questions or inquiries, please contact [seifelshabshiri@aucegypt.edu](mailto:seifelshabshiri@aucegypt.edu).
-
-Happy Simulated Annealing! 🚀
