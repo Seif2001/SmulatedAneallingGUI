@@ -9,7 +9,7 @@ This repository contains a C++ project that utilizes simulated annealing in the 
 - Simulated annealing algorithm for chip placement.
 - Graphical representation of the chip layout using SFML.
 - Customizable parameters for the simulated annealing process.
-- Visualization of the temperature decay and energy changes during optimization.
+- Visualization of the temperature decay and total wire length changes during optimization.
 
 ## Dependencies
 
@@ -35,6 +35,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For questions or inquiries, please contact [your-email@example.com](mailto:seifelshabshiri@aucegypt.edu).
+For questions or inquiries, please contact [seifelshabshiri@aucegypt.edu](mailto:seifelshabshiri@aucegypt.edu).
 
 Happy Simulated Annealing! 🚀
